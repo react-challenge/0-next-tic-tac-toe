@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+http://localhost:3000/game
+
+node v18.17.1
+
 First, run the development server:
 
 ```bash
