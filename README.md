@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-http://localhost:3000/game
+基础版 http://localhost:3000/game
+
+历史记录、回退版本 http://127.0.0.1:3000/game-history
 
 node v18.17.1
 
